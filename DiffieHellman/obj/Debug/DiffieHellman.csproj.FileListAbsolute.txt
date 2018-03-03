@@ -1,0 +1,7 @@
+C:\Users\misha\source\repos\DiffieHellman\DiffieHellman\bin\Debug\DiffieHellman.exe.config
+C:\Users\misha\source\repos\DiffieHellman\DiffieHellman\bin\Debug\DiffieHellman.exe
+C:\Users\misha\source\repos\DiffieHellman\DiffieHellman\bin\Debug\DiffieHellman.pdb
+C:\Users\misha\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.csprojResolveAssemblyReference.cache
+C:\Users\misha\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.exe
+C:\Users\misha\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.pdb
